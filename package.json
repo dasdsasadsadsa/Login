@@ -8,9 +8,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "@tonejs/midi": "^2.0.28",
     "tone": "^15.1.22"
-  }
+  },
+  "description": ""
 }
